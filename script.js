@@ -1,13 +1,13 @@
 //console.log("Hello World!");
 //document.write("Hello World!");
 
-//var count = 0
-//document.write("Starting Loop" + "<br/>");
-//while(count<10){
-//    document.write("Curernt Count:" + count + "<br/>");
-//    count++;
-//}
-//document.write("Loop Stopped!");
+var count = 0
+document.write("Starting Loop" + "<br/>");
+while(count<10){
+    document.write("Curernt Count:" + count + "<br/>");
+    count++;
+}
+document.write("Loop Stopped!");
 
 //var grade="A";
 //document.write("Entering switch block <br/>");
